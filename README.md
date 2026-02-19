@@ -17,7 +17,7 @@ Each project highlights how entry-level cybersecurity skills can be applied to s
 
 *(Each project will have its own repository linked below as it is completed)*
 
-- [Failed Login Activity Analyzer](#) – Python script analyzing user login patterns to identify unusual activity.
+- [Failed Login Activity Analyzer](https://github.com/TheBellaProtocol/failed-login-analyzer) – Python script analyzing user login patterns to identify unusual activity.
 - [Project 2 Placeholder](#) – Upcoming project demonstrating additional cybersecurity skills.
 
 ## How to Use This Portfolio
