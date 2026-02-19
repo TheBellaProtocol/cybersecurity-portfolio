@@ -31,4 +31,4 @@ Each project includes:
 ## Connect
 
 - GitHub: [TheBellaProtocol](https://github.com/TheBellaProtocol)
-- LinkedIn: *(optional, if you have one)*
+- LinkedIn: www.linkedin.com/in/andreia-neves-a23ba4117
