@@ -19,7 +19,7 @@ Each project highlights how entry-level cybersecurity skills can be applied to s
 
 - [Failed Login Activity Analyzer](https://github.com/TheBellaProtocol/failed-login-analyzer) – Python script analyzing user login patterns to identify unusual activity.
 
-- [Project 2 Placeholder](#) – Upcoming project demonstrating additional cybersecurity skills.
+- [Phishing Detection with Regex](https://github.com/TheBellaProtocol/phishing-regex-detector) – Python tool detecting phishing indicators in email content using regex patterns and header analysis.
 
 ## How to Use This Portfolio
 
